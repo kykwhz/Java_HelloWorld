@@ -5,7 +5,6 @@
 // >javac Main005.java
 // >java Main005 Hello, world.
 // (Java SE 11から、javacでコンパイルしなくてもjavaコマンドで直接javaファイルを実行できるようになったはず。)
-//
 
 class Main005 {
        public static void main(String[] args) {
@@ -14,6 +13,7 @@ class Main005 {
            System.out.println();
        }
 }
+
 
 // 以下、原文。
 //
